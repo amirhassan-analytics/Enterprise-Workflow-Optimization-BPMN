@@ -16,8 +16,3 @@
  📌 Skills: BPMN · Petri Nets · Process Optimization · Workflow Modeling · Business Process Automation · Data Flow Analysis
 
 
-# 🧑‍💻 Authors
-## ⚡ Amir Hassan
-
-# 📫 Contact
-## ⚡ For questions, collaboration, or feedback, feel free to reach out: 📩 amirhassanunipi29@gmail.com
